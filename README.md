@@ -1,5 +1,5 @@
 # Weather Analytics Dashboard using Power BI, DAX, and Live Weather API 
-# Environmental analytics dashboard for decision support
+
 
 A production-style **Power BI weather analytics dashboard** built using a **live Weather API**, **Power Query**, and **DAX** to monitor current weather, air quality, and 7-day forecasts across major cities of Nepal.
 
